@@ -1,0 +1,5 @@
+matplotlib
+Pillow
+scikit-image==0.16.2
+scipy
+redis
