@@ -1,4 +1,4 @@
-FROM balenalib/raspberrypi3:20200207
+FROM balenalib/raspberrypi3:20200221
 RUN apt update \
   && apt upgrade -y \
   && apt install -y \
